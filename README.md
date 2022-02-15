@@ -1,2 +1,2 @@
-# FoodDelivery
+# OmniFood
 Landing Page
